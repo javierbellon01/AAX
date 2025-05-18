@@ -1,5 +1,9 @@
 # AAX Seminars and Labs
+
 Members:
-Arnau (NIA 216530)
-Marta (NIA 267436)
-Javi (NIA 266933)
+
+Arnau Solans (NIA 216530)
+
+Marta Puig (NIA 267436)
+
+Javier Bellón (NIA 266933)
